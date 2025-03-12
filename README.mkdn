@@ -1,7 +1,7 @@
 Project : OpenKang 
 ===========
 
-Android custom ROM project based on LineageOS/AOSP, with minimal features, functionality and most importantly, performance.
+a Android custom ROM project based on LineageOS/AOSP, with minimal features, functionality and most importantly, performance.
 
 Getting started
 ---------------
@@ -58,7 +58,7 @@ make bacon -j$(nproc --all) | tee log.txt
 
 ## Credits
 
- * [**LineageOS**](https://github.com/LineageOS)
+ * [**LineageOS**](https://github.com/LineageOS) For the Original Source Code
  * [**CodeAurora Forum**](https://source.codeaurora.org/quic/la/)
  * [**ProtonAOSP**](https://github.com/ProtonAOSP)
  * [**PixelExperience**](https://github.com/PixelExperience)
